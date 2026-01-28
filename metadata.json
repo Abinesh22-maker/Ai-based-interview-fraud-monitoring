@@ -1,0 +1,8 @@
+{
+  "name": "Ai based interview fraud risk monitoring and alert system",
+  "description": "A real-time AI interview platform with fraud detection, behavioral monitoring, and post-session grammar analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
